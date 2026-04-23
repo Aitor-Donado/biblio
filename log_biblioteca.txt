@@ -1,0 +1,12 @@
+2026-04-23: 'Viaje al centro de la Tierra' prestado a Usuario1 hasta 2026-04-26.
+2026-04-23: 'Viaje al centro de la Tierra' devuelto por None.
+2026-04-23: 'El Señor de los Anillos' prestado a Usuario1 hasta 2026-04-26.
+2026-04-23: 'El Señor de los Anillos' devuelto por None.
+2026-04-23: 'El Señor de los Anillos' prestado a Usuario1 hasta 2026-04-26.
+2026-04-23: 'El Señor de los Anillos' devuelto por Usuario1.
+2026-04-23: 'El Señor de los Anillos' prestado a Usuario: Juan Pérez, Email: juan.perez@example.com hasta 2026-04-26.
+2026-04-23: 'El Señor de los Anillos' devuelto por Usuario: Juan Pérez, Email: juan.perez@example.com.
+2026-04-23: 'El Señor de los Anillos' prestado a Juan Pérez hasta 2026-04-26.
+2026-04-23: 'El Señor de los Anillos' devuelto por Juan Pérez.
+2026-04-23: 'El Señor de los Anillos' prestado a Juan Pérez hasta 2026-04-26.
+2026-04-23: 'El Señor de los Anillos' devuelto por Juan Pérez.
