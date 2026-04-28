@@ -10,3 +10,5 @@
 2026-04-23: 'El Señor de los Anillos' devuelto por Juan Pérez.
 2026-04-23: 'El Señor de los Anillos' prestado a Juan Pérez hasta 2026-04-26.
 2026-04-23: 'El Señor de los Anillos' devuelto por Juan Pérez.
+2026-04-28: 'El Señor de los Anillos' prestado a Juan Pérez hasta 2026-05-01.
+2026-04-28: 'El Señor de los Anillos' devuelto por Juan Pérez.
